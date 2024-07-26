@@ -1,0 +1,12 @@
+
+This is a access text which you can use to login for the admin and the user. the URL is to run on the site. 
+
+homepageurl: https://as1.v.je/index.php
+
+admin login
+adminuser: admin@admin.com
+adminpassword: adminpassword
+
+user login
+nonadminuser: nami@gmail.com
+nonadminpassword: nami
